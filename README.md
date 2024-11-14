@@ -97,6 +97,8 @@ it to this repository.
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
 
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/4e2387eb-0074-471e-9642-b24ca5bcdd19">
+
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
 
 <img width="362" alt="image" src="https://github.com/user-attachments/assets/cfd016c6-9d23-4c47-98b6-f90db3e3b46e">
